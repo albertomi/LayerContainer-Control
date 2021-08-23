@@ -1,2 +1,2 @@
 # LayerContainer-Control
-Container layer for intrinsic VB6 controls
+Container layer for intrinsic VB6
